@@ -1,0 +1,125 @@
+POST /processa/processa_pedido.php HTTP/2
+Host: www.caricanecas.com.br
+Cookie: roundcube_cookies=enabled; PHPSESSID=dc4fc86eca6cb6c8e6dcc27a37c661ba
+User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: multipart/form-data; boundary=---------------------------355468851240713169611053572836
+Content-Length: 3502
+Origin: https://www.caricanecas.com.br
+Dnt: 1
+Referer: https://www.caricanecas.com.br/produto.php?url=caricatura-squeeze
+Upgrade-Insecure-Requests: 1
+Sec-Gpc: 1
+Te: trailers
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="op_modelo"
+
+710'
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="op_pessoas"
+
+1
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_nome_pessoa1"
+
+sahksa
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_observacoes_des1"
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_nome_pessoa2"
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_fileup2"; filename=""
+Content-Type: application/octet-stream
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_fileup2b"; filename=""
+Content-Type: application/octet-stream
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_observacoes_des2"
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_nome_pessoa3"
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_fileup3"; filename=""
+Content-Type: application/octet-stream
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_fileup3b"; filename=""
+Content-Type: application/octet-stream
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_observacoes_des3"
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_nome_pessoa4"
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_fileup4"; filename=""
+Content-Type: application/octet-stream
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_fileup4b"; filename=""
+Content-Type: application/octet-stream
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_observacoes_des4"
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_nome_pessoa5"
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_fileup5"; filename=""
+Content-Type: application/octet-stream
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_fileup5b"; filename=""
+Content-Type: application/octet-stream
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_observacoes_des5"
+
+
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="total"
+
+63.00
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="im_observacoes"
+
+ashakjs
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="op_valor"
+
+63.00
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="op_valor_pessoa"
+
+0.00
+-----------------------------355468851240713169611053572836
+Content-Disposition: form-data; name="dp_email"
+
+ajs@aks.as
+-----------------------------355468851240713169611053572836--
